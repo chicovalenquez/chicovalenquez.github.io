@@ -1,0 +1,17 @@
+.albumgrid {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	max-width: 1260px;
+	text-align: center;
+}
+.albumgriditem {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.albumcover {
+	width: 200px;
+	height: 200px;
+	padding: 0px;
+}

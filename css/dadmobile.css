@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+margin-left:auto;
+margin-right:auto;
+    font: 14px Verdana, sans-serif; letter-spacing: 0;
+}
+img {
+border: none;
+}
+a {
+    color: #EA5758;
+    outline: none;
+    text-decoration: none;
+}
+
+#header {
+padding: 5px;
+background-color: #eeeeee;
+overflow: hidden;
+text-align: center;
+}
+h1 {
+    font: 28px 'Comfortaa', Verdana, sans-serif; letter-spacing: 0;
+color: black;
+font-weight: bold;
+padding: 2px;
+}
+
+.heading {
+font-weight: bold;
+}
+.small {
+font-size: 11px;
+}
+.centered {
+text-align: center;
+}
+
+#marquee {
+padding: 2px;
+font-size: 14px;
+font-weight: bold;
+font-style: italic;
+background-color: #cccccc;
+color: #777777;
+text-align: center;
+}
+#content {
+font-size: 14px;
+margin-left: auto;
+margin-right: auto;
+max-width: 1260px;
+min-height: 440px;
+height: auto;
+overflow: hidden;
+}
+#footer {
+padding: 5px;
+background-color: #eeeeee;
+overflow: hidden;
+}
+#footerspacer {
+height: 32px;
+}
+.spacer {
+height: 10px;
+}
+
+/* CATALOG PAGE CSS */
+
+.albumgrid {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	max-width: 1260px;
+	text-align: center;
+}
+.albumgriditem {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.albumcover {
+	width: 200px;
+	height: 200px;
+	padding: 0px;
+}
+
+/* BANDS PAGE CSS */
+
+.bandgrid {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    max-width: 1260px;
+    text-align: center;
+}
+.bandcard {
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.bandpic {
+    width: 200px;
+}
+
+/* ALBUMS PAGE CSS */
+
+.albumgrid {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	max-width: 1260px;
+	text-align: center;
+}
+.albumgriditem {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.albumcover {
+	width: 200px;
+	height: 200px;
+	padding: 0px;
+}
+
+.albumpage_column {
+	width: 420px;
+	float: left;
+}
+.albumpage_info {
+	padding: 10px;
+	font-size: 12px;
+}
+.albumpage_header {
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+.albumtitle {
+	font-size: 18px;
+	font-weight: bold;
+}
+.largealbumcover {
+	width: 400px;
+	height: 400px;
+}
+.downloadform {
+	background-color: #eeeeee;
+}
+.tracklist {
+	font-size: 14px;
+	margin-left: 30px;
+}
+
+.smallalbumgriditem {
+	width: 100px;
+	neight: 100px;
+	float: left;
+}
+.smallalbumcover {
+	width: 100px;
+	height: 100px;
+}

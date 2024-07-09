@@ -1,0 +1,54 @@
+.albumgrid {
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+	max-width: 1260px;
+	text-align: center;
+}
+.albumgriditem {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.albumcover {
+	width: 200px;
+	height: 200px;
+	padding: 0px;
+}
+
+.albumpage_column {
+	width: 420px;
+	float: left;
+}
+.albumpage_info {
+	padding: 10px;
+	font-size: 12px;
+}
+.albumpage_header {
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+.albumtitle {
+	font-size: 18px;
+	font-weight: bold;
+}
+.largealbumcover {
+	width: 400px;
+	height: 400px;
+}
+.tracklist {
+	font-size: 14px;
+	margin-left: 30px;
+}
+
+.smallalbumgriditem {
+	width: 100px;
+	neight: 100px;
+	float: left;
+}
+.smallalbumcover {
+	width: 100px;
+	height: 100px;
+}

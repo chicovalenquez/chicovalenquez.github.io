@@ -1,0 +1,15 @@
+.bandgrid {
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    max-width: 1260px;
+    text-align: center;
+}
+.bandcard {
+    width: 200px;
+    height: 240px;
+    float: left;
+}
+.bandpic {
+    width: 200px;
+}
